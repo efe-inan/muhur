@@ -1,0 +1,40 @@
+# Bağımlılıklar
+node_modules/
+.pnp
+.pnp.js
+
+# Test dosyaları
+coverage/
+test_file.txt
+
+# Build çıktıları
+dist/
+build/
+.next/
+out/
+
+# Ortam değişkenleri
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editör/IDE ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
