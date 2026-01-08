@@ -44,7 +44,7 @@
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/KULLANICI_ADI/muhur.git
+git clone https://github.com/efe-inan/muhur.git
 
 # Proje dizinine gidin
 cd muhur
